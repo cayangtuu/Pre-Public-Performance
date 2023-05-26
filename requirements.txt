@@ -1,0 +1,18 @@
+certifi==2020.12.5
+cftime==1.4.1
+chardet==4.0.0
+et-xmlfile==1.1.0
+h5py @ file:///tmp/build/80754af9/h5py_1593454119955/work
+idna==2.10
+iNLP==0.0.2
+netCDF4==1.5.6
+numpy==1.20.3
+openpyxl==3.0.7
+pandas==1.2.4
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
+requests==2.25.1
+simhash==2.0.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+urllib3==1.26.4
+xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1606798576866/work
